@@ -22,9 +22,15 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 ## Array
 |  |
 | ------- |
+| [0967-minimum-falling-path-sum](https://github.com/saadmdsabah/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1121-partition-array-for-maximum-sum](https://github.com/saadmdsabah/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0967-minimum-falling-path-sum](https://github.com/saadmdsabah/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1121-partition-array-for-maximum-sum](https://github.com/saadmdsabah/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
+## Matrix
+|  |
+| ------- |
+| [0967-minimum-falling-path-sum](https://github.com/saadmdsabah/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 <!---LeetCode Topics End-->
