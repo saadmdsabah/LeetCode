@@ -22,6 +22,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/saadmdsabah/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/saadmdsabah/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/saadmdsabah/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Array
 |  |
@@ -31,6 +32,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [0967-minimum-falling-path-sum](https://github.com/saadmdsabah/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1121-partition-array-for-maximum-sum](https://github.com/saadmdsabah/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1325-path-with-maximum-probability](https://github.com/saadmdsabah/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/saadmdsabah/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,6 +91,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/saadmdsabah/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/saadmdsabah/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/saadmdsabah/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -113,4 +116,8 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/saadmdsabah/LeetCode/tree/master/1325-path-with-maximum-probability) |
+## Prefix Sum
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/saadmdsabah/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
