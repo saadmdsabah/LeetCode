@@ -11,13 +11,8 @@ class Solution {
         }
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
-                if(index != (original.length)){
-                    result[i][j] = original[index];
-                    index++;
-                }
-                else{
-                    break;
-                }
+                result[i][j] = original[index];
+                index++;
             }
         }
         
