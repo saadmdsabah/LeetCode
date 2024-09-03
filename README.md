@@ -17,10 +17,12 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/saadmdsabah/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0592-fraction-addition-and-subtraction](https://github.com/saadmdsabah/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/saadmdsabah/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Simulation
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/saadmdsabah/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/saadmdsabah/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Array
 |  |
 | ------- |
