@@ -25,17 +25,19 @@
  */
 class Solution {
 
-    public void allNodes(TreeNode root, int val, ArrayList<TreeNode> allStartingNodes){
+    public void allNodes(TreeNode root, ListNode head){
         if(root == null){
             return;
         }
-        allNodes(root.left, val,allStartingNodes);
-        if(root.val == val){
-            allStartingNodes.add(root);
+        allNodes(root.left, head);
+        if(root.val == head.val){
+            ListNode temp = head;
+            result = result || validNode(temp, root);
         }
-        allNodes(root.right, val,allStartingNodes);
+        allNodes(root.right, head);
     }
 
+    boolean result = false;
     public boolean validNode(ListNode head, TreeNode root){
         if(head == null){
             return true;
@@ -50,12 +52,7 @@ class Solution {
     }
 
     public boolean isSubPath(ListNode head, TreeNode root) {
-        ArrayList<TreeNode> allStartingNodes = new ArrayList<>();
-        allNodes(root, head.val, allStartingNodes);
-        boolean result = false;
-        for(int i=0; i<allStartingNodes.size(); i++){
-           result = result || validNode(head, allStartingNodes.get(i));
-        }
+        allNodes(root, head);
         return result;
     }
 }
