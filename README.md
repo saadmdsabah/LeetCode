@@ -7,6 +7,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/saadmdsabah/LeetCode/tree/master/0476-number-complement) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/saadmdsabah/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Math
 |  |
 | ------- |
