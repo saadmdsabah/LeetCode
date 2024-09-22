@@ -15,6 +15,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 ## Math
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/saadmdsabah/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/saadmdsabah/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/saadmdsabah/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [1013-fibonacci-number](https://github.com/saadmdsabah/LeetCode/tree/master/1013-fibonacci-number) |
@@ -26,6 +27,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/saadmdsabah/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0179-largest-number](https://github.com/saadmdsabah/LeetCode/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/saadmdsabah/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/saadmdsabah/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/saadmdsabah/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/saadmdsabah/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -66,6 +68,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/saadmdsabah/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0241-different-ways-to-add-parentheses](https://github.com/saadmdsabah/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0967-minimum-falling-path-sum](https://github.com/saadmdsabah/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/saadmdsabah/LeetCode/tree/master/1013-fibonacci-number) |
 | [1121-partition-array-for-maximum-sum](https://github.com/saadmdsabah/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
@@ -80,10 +83,12 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/saadmdsabah/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0241-different-ways-to-add-parentheses](https://github.com/saadmdsabah/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/saadmdsabah/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/saadmdsabah/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/saadmdsabah/LeetCode/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
