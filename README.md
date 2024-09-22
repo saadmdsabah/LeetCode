@@ -109,6 +109,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/saadmdsabah/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0386-lexicographical-numbers](https://github.com/saadmdsabah/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/saadmdsabah/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/saadmdsabah/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/saadmdsabah/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -203,4 +204,8 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/saadmdsabah/LeetCode/tree/master/0179-largest-number) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/saadmdsabah/LeetCode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
