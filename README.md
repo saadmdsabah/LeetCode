@@ -25,6 +25,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/saadmdsabah/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/saadmdsabah/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0179-largest-number](https://github.com/saadmdsabah/LeetCode/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/saadmdsabah/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
