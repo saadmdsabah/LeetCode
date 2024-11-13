@@ -19,11 +19,6 @@ class Solution {
                 map.put(t.charAt(i), map.get(t.charAt(i)) - 1);
             }
         }
-        for(Map.Entry<Character, Integer> entry : map.entrySet()){
-            if(entry.getValue() > 0){
-                return false;
-            }
-        }
         return true;
     }
 }
