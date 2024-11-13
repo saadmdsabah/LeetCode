@@ -49,6 +49,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saadmdsabah/LeetCode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/saadmdsabah/LeetCode/tree/master/0027-remove-element) |
 | [0179-largest-number](https://github.com/saadmdsabah/LeetCode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/saadmdsabah/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0654-maximum-binary-tree](https://github.com/saadmdsabah/LeetCode/tree/master/0654-maximum-binary-tree) |
@@ -217,4 +218,8 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/saadmdsabah/LeetCode/tree/master/0386-lexicographical-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/saadmdsabah/LeetCode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
