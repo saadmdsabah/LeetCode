@@ -58,6 +58,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [1121-partition-array-for-maximum-sum](https://github.com/saadmdsabah/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1325-path-with-maximum-probability](https://github.com/saadmdsabah/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/saadmdsabah/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saadmdsabah/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/saadmdsabah/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/saadmdsabah/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/saadmdsabah/LeetCode/tree/master/2035-count-sub-islands) |
@@ -160,6 +161,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [0906-walking-robot-simulation](https://github.com/saadmdsabah/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/saadmdsabah/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/saadmdsabah/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saadmdsabah/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/saadmdsabah/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/saadmdsabah/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/saadmdsabah/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -200,6 +202,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/saadmdsabah/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saadmdsabah/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/saadmdsabah/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Brainteaser
 |  |
@@ -210,6 +213,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | ------- |
 | [0179-largest-number](https://github.com/saadmdsabah/LeetCode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/saadmdsabah/LeetCode/tree/master/0539-minimum-time-difference) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saadmdsabah/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Greedy
 |  |
 | ------- |
