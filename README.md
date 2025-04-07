@@ -53,6 +53,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [0001-two-sum](https://github.com/saadmdsabah/LeetCode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/saadmdsabah/LeetCode/tree/master/0027-remove-element) |
 | [0179-largest-number](https://github.com/saadmdsabah/LeetCode/tree/master/0179-largest-number) |
+| [0416-partition-equal-subset-sum](https://github.com/saadmdsabah/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0539-minimum-time-difference](https://github.com/saadmdsabah/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0654-maximum-binary-tree](https://github.com/saadmdsabah/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0906-walking-robot-simulation](https://github.com/saadmdsabah/LeetCode/tree/master/0906-walking-robot-simulation) |
@@ -75,6 +76,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/saadmdsabah/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0241-different-ways-to-add-parentheses](https://github.com/saadmdsabah/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0416-partition-equal-subset-sum](https://github.com/saadmdsabah/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/saadmdsabah/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/saadmdsabah/LeetCode/tree/master/1013-fibonacci-number) |
 | [1121-partition-array-for-maximum-sum](https://github.com/saadmdsabah/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
