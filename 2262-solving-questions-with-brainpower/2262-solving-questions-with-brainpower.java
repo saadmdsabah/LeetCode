@@ -1,22 +1,19 @@
 class Solution {
-
-    public long pointsRecursion(int[][] questions, int index, long[] dp){
-        if(index >= questions.length){
-            return 0;
-        }
-        if(dp[index] != -1){
-            return dp[index];
-        }
-        long take = pointsRecursion(questions, index + questions[index][1] + 1, dp) + questions[index][0];
-        long notTake = pointsRecursion(questions, index+1, dp);
-        dp[index] = Math.max(take, notTake);
-        return dp[index]; 
-    }
-
     public long mostPoints(int[][] questions) {
-        long[] dp = new long[questions.length];
-        Arrays.fill(dp, -1);
-        long max = pointsRecursion(questions, 0, dp);
-        return max;
+        int n = questions.length;
+        long[] dp = new long[n + 1]; 
+
+        for (int i = n - 1; i >= 0; i--) {
+            int points = questions[i][0];
+            int jump = questions[i][1];
+
+            long take = points + (i + jump + 1 < n ? dp[i + jump + 1] : 0);
+
+            long skip = dp[i + 1];
+
+            dp[i] = Math.max(take, skip);
+        }
+
+        return dp[0];
     }
 }
