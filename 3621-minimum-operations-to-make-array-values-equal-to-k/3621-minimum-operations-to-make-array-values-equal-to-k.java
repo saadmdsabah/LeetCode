@@ -1,19 +1,16 @@
 class Solution {
     public int minOperations(int[] nums, int k) {
-        Arrays.sort(nums);
-        int n = nums.length;
-        int prev = nums[n-1];
-        int count = 0;
+        HashSet<Integer> set = new HashSet<>();
+        int min = 101;
 
         for(int i=nums.length-1; i>=0; i--){
-            if(prev != nums[i]){
-                count++;
-            }
-            prev = nums[i];
+            set.add(nums[i]);
+            min = Math.min(min, nums[i]);
         }
-        if(k > prev){
+        int count = set.size() - 1;
+        if(k > min){
             return -1;
-        }else if(k == prev){
+        }else if(k == min){
             return count;
         }
         return count + 1;
