@@ -1,19 +1,24 @@
 class Solution {
     public int minOperations(int[] nums, int k) {
-        Arrays.sort(nums);
-        int n = nums.length;
-        int prev = nums[n-1];
-        int count = 0;
+        int[] dist = new int[101];
 
         for(int i=nums.length-1; i>=0; i--){
-            if(prev != nums[i]){
-                count++;
+            if(dist[nums[i]] == 0){
+                dist[0]++;
             }
-            prev = nums[i];
+            dist[nums[i]]++;
         }
-        if(k > prev){
+        int min = -1;
+        for(int i=1; i<=100; i++){
+            if(dist[i] != 0){
+                min = i;
+                break;
+            }
+        }
+        int count = dist[0] - 1;
+        if(k > min){
             return -1;
-        }else if(k == prev){
+        }else if(k == min){
             return count;
         }
         return count + 1;
