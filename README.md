@@ -74,6 +74,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/saadmdsabah/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/saadmdsabah/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/saadmdsabah/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/saadmdsabah/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -234,6 +235,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [0242-valid-anagram](https://github.com/saadmdsabah/LeetCode/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/saadmdsabah/LeetCode/tree/master/0539-minimum-time-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saadmdsabah/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/saadmdsabah/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Greedy
 |  |
 | ------- |
