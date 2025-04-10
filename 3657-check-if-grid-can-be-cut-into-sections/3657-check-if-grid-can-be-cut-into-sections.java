@@ -1,8 +1,8 @@
 class Solution {
 
-    public boolean countIntervals(int[][] intervals){
+    public boolean countIntervalsX(int[][] intervals){
         int count = 0;
-        int prev = intervals[0][1];
+        int prev = intervals[0][2];
         for(int i=1; i<intervals.length; i++){
             if(intervals[i][0] >= prev){
                 count++;
@@ -10,25 +10,31 @@ class Solution {
                     return true;
                 }
             }
-            prev = Math.max(prev, intervals[i][1]);
+            prev = Math.max(prev, intervals[i][2]);
+        }
+        return false;
+    }
+
+    public boolean countIntervalsY(int[][] intervals){
+        int count = 0;
+        int prev = intervals[0][3];
+        for(int i=1; i<intervals.length; i++){
+            if(intervals[i][1] >= prev){
+                count++;
+                if(count == 2){
+                    return true;
+                }
+            }
+            prev = Math.max(prev, intervals[i][3]);
         }
         return false;
     }
 
     public boolean checkValidCuts(int n, int[][] rectangles) {
-        int[][] xIntervals = new int[rectangles.length][2];
-        int[][] yIntervals = new int[rectangles.length][2];
-
-        for(int i=0; i<rectangles.length; i++){
-            xIntervals[i][0] = rectangles[i][0];
-            xIntervals[i][1] = rectangles[i][2];
-            yIntervals[i][0] = rectangles[i][1];
-            yIntervals[i][1] = rectangles[i][3];
-        }
-
-        Arrays.sort(xIntervals, (a,b)->Integer.compare(a[0], b[0]));
-        Arrays.sort(yIntervals, (a,b)->Integer.compare(a[0], b[0]));
-    
-        return countIntervals(xIntervals) || countIntervals(yIntervals);
+        Arrays.sort(rectangles, (a,b)->Integer.compare(a[0], b[0]));
+        boolean x = countIntervalsX(rectangles);
+        Arrays.sort(rectangles, (a,b)->Integer.compare(a[1], b[1]));
+        boolean y = countIntervalsY(rectangles);
+        return x || y;
     }
 }
