@@ -7,13 +7,10 @@ class Solution {
             if(intervals[i][0] >= prev){
                 count++;
                 if(count == 2){
-                    break;
+                    return true;
                 }
             }
             prev = Math.max(prev, intervals[i][1]);
-        }
-        if(count == 2){
-            return true;
         }
         return false;
     }
