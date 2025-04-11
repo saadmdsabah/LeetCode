@@ -6,9 +6,9 @@ class Solution {
             if(ascii >= 48 && ascii <= 57){
                 freq[ascii - 48]++;
             }else if(ascii >= 97 && ascii <= 122){
-                freq[ascii - 97 + 10]++;
+                freq[ascii - 87]++;
             }else{
-                freq[ascii - 65 + 36]++;
+                freq[ascii - 29]++;
             }
         }
 
@@ -32,9 +32,9 @@ class Solution {
                     if(j >= 0 && j <= 9){
                         maxChar = (char) (j + 48);
                     }else if(j >= 10 && j <= 35){
-                        maxChar = (char) (j - 10 + 97);
+                        maxChar = (char) (j + 87);
                     }else{
-                        maxChar = (char) (j - 36 + 65);
+                        maxChar = (char) (j + 29);
                     }
                 }
             }
