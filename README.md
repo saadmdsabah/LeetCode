@@ -21,6 +21,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [1013-fibonacci-number](https://github.com/saadmdsabah/LeetCode/tree/master/1013-fibonacci-number) |
 | [2155-find-missing-observations](https://github.com/saadmdsabah/LeetCode/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/saadmdsabah/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [2998-count-symmetric-integers](https://github.com/saadmdsabah/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3568-find-the-key-of-the-numbers](https://github.com/saadmdsabah/LeetCode/tree/master/3568-find-the-key-of-the-numbers) |
 ## String
 |  |
@@ -252,4 +253,8 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/saadmdsabah/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/saadmdsabah/LeetCode/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
