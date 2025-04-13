@@ -15,6 +15,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/saadmdsabah/LeetCode/tree/master/0050-powx-n) |
 | [0233-number-of-digit-one](https://github.com/saadmdsabah/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/saadmdsabah/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/saadmdsabah/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -100,6 +101,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/saadmdsabah/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0050-powx-n](https://github.com/saadmdsabah/LeetCode/tree/master/0050-powx-n) |
 | [0233-number-of-digit-one](https://github.com/saadmdsabah/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/saadmdsabah/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/saadmdsabah/LeetCode/tree/master/1013-fibonacci-number) |
