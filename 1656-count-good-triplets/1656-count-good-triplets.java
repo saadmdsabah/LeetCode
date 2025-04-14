@@ -7,7 +7,7 @@ class Solution {
                     int d = Math.abs(arr[i] - arr[j]);
                     int e = Math.abs(arr[j] - arr[k]);
                     int f = Math.abs(arr[i] - arr[k]);
-                    if(d<=a && e<=b && f<=c && i<j && j<k){
+                    if(d<=a && e<=b && f<=c){
                         count += 1;
                     }
                 }
