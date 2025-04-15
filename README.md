@@ -16,6 +16,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/saadmdsabah/LeetCode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/saadmdsabah/LeetCode/tree/master/0050-powx-n) |
 | [0233-number-of-digit-one](https://github.com/saadmdsabah/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/saadmdsabah/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
