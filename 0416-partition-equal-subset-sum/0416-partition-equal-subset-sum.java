@@ -5,6 +5,8 @@ public class Solution {
             return true;
         }else if(index >= nums.length){
             return false;
+        }else if(current > total/2) {
+            return false;
         }else if(dp[index][current] != -1){
             return dp[index][current] == 1;
         }
@@ -21,9 +23,9 @@ public class Solution {
         if(total%2 != 0){
             return false;
         }
-        int[][] dp = new int[nums.length][total + 1];
+        int[][] dp = new int[nums.length][total/2 + 1];
         for(int i=0; i<nums.length; i++){
-            for(int j=0; j<=total; j++){
+            for(int j=0; j<=total/2; j++){
                 dp[i][j] = -1;
             }
         }
