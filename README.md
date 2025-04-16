@@ -81,6 +81,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [2262-solving-questions-with-brainpower](https://github.com/saadmdsabah/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2411-spiral-matrix-iv](https://github.com/saadmdsabah/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/saadmdsabah/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/saadmdsabah/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/saadmdsabah/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/saadmdsabah/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/saadmdsabah/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -196,6 +197,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/saadmdsabah/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saadmdsabah/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/saadmdsabah/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/saadmdsabah/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/saadmdsabah/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/saadmdsabah/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3548-find-the-count-of-good-integers](https://github.com/saadmdsabah/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
@@ -292,4 +294,8 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saadmdsabah/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Sliding Window
+|  |
+| ------- |
+| [2626-count-the-number-of-good-subarrays](https://github.com/saadmdsabah/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 <!---LeetCode Topics End-->
