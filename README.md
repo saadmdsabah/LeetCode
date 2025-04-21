@@ -18,6 +18,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | ------- |
 | [0007-reverse-integer](https://github.com/saadmdsabah/LeetCode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/saadmdsabah/LeetCode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/saadmdsabah/LeetCode/tree/master/0069-sqrtx) |
 | [0233-number-of-digit-one](https://github.com/saadmdsabah/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/saadmdsabah/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/saadmdsabah/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -184,6 +185,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/saadmdsabah/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/saadmdsabah/LeetCode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saadmdsabah/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saadmdsabah/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/saadmdsabah/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
