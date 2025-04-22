@@ -87,6 +87,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [2035-count-sub-islands](https://github.com/saadmdsabah/LeetCode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/saadmdsabah/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/saadmdsabah/LeetCode/tree/master/2155-find-missing-observations) |
+| [2249-count-the-hidden-sequences](https://github.com/saadmdsabah/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/saadmdsabah/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/saadmdsabah/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/saadmdsabah/LeetCode/tree/master/2411-spiral-matrix-iv) |
@@ -241,6 +242,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [1435-xor-queries-of-a-subarray](https://github.com/saadmdsabah/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/saadmdsabah/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/saadmdsabah/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2249-count-the-hidden-sequences](https://github.com/saadmdsabah/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 ## Union Find
 |  |
 | ------- |
