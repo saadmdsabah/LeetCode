@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Collection;
 class Solution {
     public int countLargestGroup(int n) {
         HashMap<Integer, Integer> map = new HashMap<>();
