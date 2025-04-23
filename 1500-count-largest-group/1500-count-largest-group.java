@@ -1,38 +1,29 @@
-import java.util.Collection;
 class Solution {
 
-    public int numberSum(int n){
-        if(n < 10){
-            return n;
+    private int digitSum(int num) {
+        int sum = 0;
+        while (num > 0) {
+            sum += num % 10;
+            num /= 10;
         }
-        int len = (int) Math.floor(Math.log10(n)) + 1;
-        int right = numberSum(n%((int) Math.pow(10, len/2)));
-        n = n/((int) Math.pow(10, len/2));
-        int left = numberSum(n);
-        return left + right;
+        return sum;
     }
-
+    
     public int countLargestGroup(int n) {
-        HashMap<Integer, Integer> map = new HashMap<>();
+        int[] count = new int[37]; // Max digit sum for n <= 10^4 is 36
         int max = 0;
 
-        for(int i=1; i<=n; i++){
-            int sum = numberSum(i);
-            if(map.containsKey(sum)){
-                map.put(sum, map.get(sum) + 1);
-                max = Math.max(map.get(sum),max);
-            }else{
-                map.put(sum, 1);
-                max = Math.max(max, 1);
-            }
+        for (int i = 1; i <= n; i++) {
+            int sum = digitSum(i);
+            count[sum]++;
+            max = Math.max(max, count[sum]);
         }
-        int count = 0;
-        Collection<Integer> values = map.values();
-        for(int i : values){
-            if(i == max){
-                count++;
-            }
+
+        int result = 0;
+        for (int c : count) {
+            if (c == max) result++;
         }
-        return count;
+
+        return result;
     }
 }
