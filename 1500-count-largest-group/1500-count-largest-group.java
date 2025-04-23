@@ -19,7 +19,6 @@ class Solution {
                 max = Math.max(max, 1);
             }
         }
-        System.out.println(max);
         int count = 0;
         Collection<Integer> values = map.values();
         for(int i : values){
