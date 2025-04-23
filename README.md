@@ -25,6 +25,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [0592-fraction-addition-and-subtraction](https://github.com/saadmdsabah/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0797-rabbits-in-forest](https://github.com/saadmdsabah/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/saadmdsabah/LeetCode/tree/master/1013-fibonacci-number) |
+| [1500-count-largest-group](https://github.com/saadmdsabah/LeetCode/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saadmdsabah/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/saadmdsabah/LeetCode/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/saadmdsabah/LeetCode/tree/master/2155-find-missing-observations) |
@@ -216,6 +217,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/saadmdsabah/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/saadmdsabah/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saadmdsabah/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1500-count-largest-group](https://github.com/saadmdsabah/LeetCode/tree/master/1500-count-largest-group) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/saadmdsabah/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/saadmdsabah/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/saadmdsabah/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
