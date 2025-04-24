@@ -1,31 +1,33 @@
 class Solution {
     public int countCompleteSubarrays(int[] nums) {
-        HashSet<Integer> set = new HashSet<>();
-        for(int i : nums){
-            set.add(i);
-        }
-        int unique = set.size();
-        set.clear();
-        
-        int count = 0;
-        HashMap<Integer, Integer> map = new HashMap<>();
-
-        for(int j=0; j<nums.length; j++){
-            if(map.containsKey(nums[j])){
-                map.put(nums[j], map.get(nums[j]) + 1);
-            }else{
-                map.put(nums[j], 1);
+        int[] map = new int[2001];
+        int unique = 0;
+        for(int i=0; i<nums.length; i++){
+            if(map[nums[i]] == 0){
+                unique++;
             }
-            HashMap<Integer, Integer> temp = new HashMap<>(map);
+            map[nums[i]]++;
+        }
+        Arrays.fill(map, 0);
+
+        int tUni = 0;
+        int count = 0;
+        for(int j=0; j<nums.length; j++){
+            if(map[nums[j]] == 0){
+                tUni++;
+            }
+            map[nums[j]]++;
+            int[] temp = map.clone();
+            int ttUni = tUni;
+
             for(int i=0; i<=j; i++){
-                if(temp.size() == unique){
+                if(ttUni == unique){
                     count += 1;
                 }
-                if(temp.get(nums[i]) - 1 == 0){
-                    temp.remove(nums[i]);
-                }else{
-                    temp.put(nums[i], temp.get(nums[i]) - 1);
+                if(temp[nums[i]] == 1){
+                    ttUni--;
                 }
+                temp[nums[i]]--;
             }
         }
         return count;
