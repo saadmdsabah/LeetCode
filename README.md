@@ -97,6 +97,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/saadmdsabah/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/saadmdsabah/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/saadmdsabah/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/saadmdsabah/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/saadmdsabah/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/saadmdsabah/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/saadmdsabah/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -313,6 +314,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/saadmdsabah/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/saadmdsabah/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Enumeration
 |  |
 | ------- |
@@ -336,6 +338,11 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 ## Sliding Window
 |  |
 | ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/saadmdsabah/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/saadmdsabah/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/saadmdsabah/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/saadmdsabah/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
