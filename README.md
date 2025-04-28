@@ -70,6 +70,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saadmdsabah/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/saadmdsabah/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/saadmdsabah/LeetCode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/saadmdsabah/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/saadmdsabah/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saadmdsabah/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/saadmdsabah/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -305,6 +306,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/saadmdsabah/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/saadmdsabah/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saadmdsabah/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/saadmdsabah/LeetCode/tree/master/0179-largest-number) |
