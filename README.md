@@ -102,6 +102,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [2249-count-the-hidden-sequences](https://github.com/saadmdsabah/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/saadmdsabah/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/saadmdsabah/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/saadmdsabah/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2411-spiral-matrix-iv](https://github.com/saadmdsabah/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/saadmdsabah/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/saadmdsabah/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -217,6 +218,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [0907-koko-eating-bananas](https://github.com/saadmdsabah/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1646-kth-missing-positive-number](https://github.com/saadmdsabah/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/saadmdsabah/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/saadmdsabah/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/saadmdsabah/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Divide and Conquer
 |  |
@@ -271,6 +273,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/saadmdsabah/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/saadmdsabah/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2249-count-the-hidden-sequences](https://github.com/saadmdsabah/LeetCode/tree/master/2249-count-the-hidden-sequences) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/saadmdsabah/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/saadmdsabah/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 ## Union Find
 |  |
@@ -359,6 +362,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 ## Sliding Window
 |  |
 | ------- |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/saadmdsabah/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/saadmdsabah/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/saadmdsabah/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/saadmdsabah/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
