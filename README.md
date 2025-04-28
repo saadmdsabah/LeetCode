@@ -68,6 +68,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [0027-remove-element](https://github.com/saadmdsabah/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/saadmdsabah/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saadmdsabah/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0045-jump-game-ii](https://github.com/saadmdsabah/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/saadmdsabah/LeetCode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/saadmdsabah/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saadmdsabah/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -117,6 +118,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/saadmdsabah/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0045-jump-game-ii](https://github.com/saadmdsabah/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/saadmdsabah/LeetCode/tree/master/0055-jump-game) |
 | [0233-number-of-digit-one](https://github.com/saadmdsabah/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/saadmdsabah/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -311,6 +313,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/saadmdsabah/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/saadmdsabah/LeetCode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/saadmdsabah/LeetCode/tree/master/0179-largest-number) |
 | [0797-rabbits-in-forest](https://github.com/saadmdsabah/LeetCode/tree/master/0797-rabbits-in-forest) |
