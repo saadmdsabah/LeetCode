@@ -3,15 +3,12 @@ class Solution {
         long result = 0;
         int max = 0;
         for(int i : nums){
-            if(i > max){
-                max = i;
-            }
+            max = Math.max(max, i);
         }
 
         int start = 0;
-        int end = 0;
         int count = 0;
-        while(end < nums.length){
+        for(int end=0; end<nums.length; end++){
             if(nums[end] == max){
                 count++;
             }
@@ -22,7 +19,6 @@ class Solution {
                 }
                 start++;
             }
-            end++;
         }
         return result;
     }
