@@ -67,6 +67,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | ------- |
 | [0001-two-sum](https://github.com/saadmdsabah/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/saadmdsabah/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/saadmdsabah/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/saadmdsabah/LeetCode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/saadmdsabah/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/saadmdsabah/LeetCode/tree/master/0031-next-permutation) |
@@ -323,6 +324,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/saadmdsabah/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/saadmdsabah/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/saadmdsabah/LeetCode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/saadmdsabah/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/saadmdsabah/LeetCode/tree/master/0075-sort-colors) |
@@ -351,6 +353,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/saadmdsabah/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/saadmdsabah/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/saadmdsabah/LeetCode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/saadmdsabah/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/saadmdsabah/LeetCode/tree/master/0031-next-permutation) |
