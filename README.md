@@ -91,6 +91,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/saadmdsabah/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0416-partition-equal-subset-sum](https://github.com/saadmdsabah/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/saadmdsabah/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/saadmdsabah/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/saadmdsabah/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saadmdsabah/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0654-maximum-binary-tree](https://github.com/saadmdsabah/LeetCode/tree/master/0654-maximum-binary-tree) |
@@ -174,6 +175,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/saadmdsabah/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/saadmdsabah/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/saadmdsabah/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/saadmdsabah/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/saadmdsabah/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Tree
@@ -249,6 +251,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/saadmdsabah/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/saadmdsabah/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/saadmdsabah/LeetCode/tree/master/0654-maximum-binary-tree) |
 ## Hash Table
 |  |
