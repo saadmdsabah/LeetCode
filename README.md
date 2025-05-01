@@ -75,6 +75,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [0031-next-permutation](https://github.com/saadmdsabah/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/saadmdsabah/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saadmdsabah/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/saadmdsabah/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/saadmdsabah/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/saadmdsabah/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/saadmdsabah/LeetCode/tree/master/0056-merge-intervals) |
@@ -137,6 +138,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/saadmdsabah/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/saadmdsabah/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/saadmdsabah/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/saadmdsabah/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saadmdsabah/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -175,6 +177,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/saadmdsabah/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saadmdsabah/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/saadmdsabah/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/saadmdsabah/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -252,6 +255,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/saadmdsabah/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/saadmdsabah/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/saadmdsabah/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/saadmdsabah/LeetCode/tree/master/0654-maximum-binary-tree) |
@@ -366,6 +370,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [0018-4sum](https://github.com/saadmdsabah/LeetCode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/saadmdsabah/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/saadmdsabah/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/saadmdsabah/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/saadmdsabah/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saadmdsabah/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/saadmdsabah/LeetCode/tree/master/0287-find-the-duplicate-number) |
