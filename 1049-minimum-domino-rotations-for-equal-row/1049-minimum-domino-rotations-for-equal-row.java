@@ -4,11 +4,9 @@ class Solution {
             return -1;
         }
         int[] map = new int[7];
-        for(int i : tops){
-            map[i]++;
-        }
-        for(int i : bottoms){
-            map[i]++;
+        for(int i=0; i<tops.length; i++){
+            map[tops[i]]++;
+            map[bottoms[i]]++;
         }
         boolean notPossible = true;
         for(int i=1; i<7; i++){
@@ -25,41 +23,28 @@ class Solution {
 
         for(int i=1; i<7; i++){
             if(map[i] >= tops.length){
-                boolean[] present = new boolean[tops.length];
-                for(int j=0; j<tops.length; j++){
-                    if(tops[j] == i || bottoms[j] == i){
-                        present[j] = true;
-                    }else{
-                        present[j] = false;
-                    }
-                }
                 boolean valid = true;
-                for(boolean p : present){
-                    if(!p){
+                for(int j=0; j<tops.length; j++){
+                    if(!(tops[j] == i || bottoms[j] == i)){
                         valid = false;
-                        break;
                     }
                 }
+                if(!valid) break;
                 int countTops = 0;
                 int countBottoms = 0;
-                if(valid){
-                    for(int j=0; j<tops.length; j++){
-                        if(tops[j] != i){
-                            countTops++;
-                        }
+                for(int j=0; j<tops.length; j++){
+                    if(tops[j] != i){
+                        countTops++;
                     }
-                    for(int j=0; j<bottoms.length; j++){
-                        if(bottoms[j] != i){
-                            countBottoms++;
-                        }
-                    }
-                    result = Math.min(result, Math.min(countTops, countBottoms));
                 }
+                for(int j=0; j<bottoms.length; j++){
+                    if(bottoms[j] != i){
+                        countBottoms++;
+                    }
+                }
+                result = Math.min(result, Math.min(countTops, countBottoms));
             }
         }
-        if(result == Integer.MAX_VALUE){
-            return -1;
-        }
-        return result;
+        return result == Integer.MAX_VALUE ? -1 : result;
     }
 }
