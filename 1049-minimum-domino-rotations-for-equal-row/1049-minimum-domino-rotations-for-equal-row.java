@@ -13,19 +13,17 @@ class Solution {
         for(int i=1; i<7; i++){
             if(map[i] >= tops.length){
                 boolean valid = true;
-                for(int j=0; j<tops.length; j++){
-                    if(!(tops[j] == i || bottoms[j] == i)){
-                        valid = false;
-                    }
-                }
-                if(!valid) break;
                 int countTops = 0;
                 int countBottoms = 0;
                 for(int j=0; j<tops.length; j++){
-                    if(tops[j] != i){
+                    if(!(tops[j] == i || bottoms[j] == i)){
+                        valid = false;
+                        break;
+                    }else if(tops[j] != i){
                         countTops++;
                     }
                 }
+                if(!valid) break;
                 for(int j=0; j<bottoms.length; j++){
                     if(bottoms[j] != i){
                         countBottoms++;
