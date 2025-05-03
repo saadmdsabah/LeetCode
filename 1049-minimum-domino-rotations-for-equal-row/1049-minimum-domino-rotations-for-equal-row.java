@@ -44,12 +44,12 @@ class Solution {
                 int countBottoms = 0;
                 if(valid){
                     for(int j=0; j<tops.length; j++){
-                        if(tops[j] != i && bottoms[j] == i){
+                        if(tops[j] != i){
                             countTops++;
                         }
                     }
                     for(int j=0; j<bottoms.length; j++){
-                        if(bottoms[j] != 1 && tops[j] == i){
+                        if(bottoms[j] != i){
                             countBottoms++;
                         }
                     }
