@@ -1,8 +1,8 @@
 class Solution {
     public int minDominoRotations(int[] tops, int[] bottoms) {
-        // if(tops.length != bottoms.length){
-        //     return -1;
-        // }
+        if(tops.length != bottoms.length){
+            return -1;
+        }
         int[] map = new int[7];
         for(int i=0; i<tops.length; i++){
             map[tops[i]]++;
