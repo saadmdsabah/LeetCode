@@ -8,17 +8,6 @@ class Solution {
             map[tops[i]]++;
             map[bottoms[i]]++;
         }
-        boolean notPossible = true;
-        for(int i=1; i<7; i++){
-            if(map[i] >= tops.length){
-                notPossible = false;
-                break;
-            }
-        }
-        if(notPossible){
-            return -1;
-        }
-
         int result = Integer.MAX_VALUE;
 
         for(int i=1; i<7; i++){
