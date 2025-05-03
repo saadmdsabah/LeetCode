@@ -8,12 +8,12 @@ class Solution {
         int result = Integer.MAX_VALUE;
         for(int i=1; i<7; i++){
             if(map[i] >= tops.length){
+                boolean valid = true;
                 int countTops = 0;
                 int countBottoms = 0;
                 for(int j=0; j<tops.length; j++){
                     if(!(tops[j] == i || bottoms[j] == i)){
-                        countTops = Integer.MAX_VALUE;
-                        countBottoms = Integer.MAX_VALUE;
+                        valid = false;
                         break;
                     }else if(tops[j] != i){
                         countTops++;
@@ -21,7 +21,7 @@ class Solution {
                         countBottoms++;
                     }
                 }
-                result = Math.min(result, Math.min(countTops, countBottoms));
+                if(valid) result = Math.min(result, Math.min(countTops, countBottoms));
             }
         }
         return result == Integer.MAX_VALUE ? -1 : result;
