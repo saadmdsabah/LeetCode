@@ -92,6 +92,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [0179-largest-number](https://github.com/saadmdsabah/LeetCode/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/saadmdsabah/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saadmdsabah/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/saadmdsabah/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/saadmdsabah/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/saadmdsabah/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0416-partition-equal-subset-sum](https://github.com/saadmdsabah/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -163,6 +164,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/saadmdsabah/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/saadmdsabah/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/saadmdsabah/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [2035-count-sub-islands](https://github.com/saadmdsabah/LeetCode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/saadmdsabah/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -247,6 +249,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saadmdsabah/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/saadmdsabah/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/saadmdsabah/LeetCode/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/saadmdsabah/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/saadmdsabah/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/saadmdsabah/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saadmdsabah/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -260,6 +263,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/saadmdsabah/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/saadmdsabah/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0654-maximum-binary-tree](https://github.com/saadmdsabah/LeetCode/tree/master/0654-maximum-binary-tree) |
 ## Monotonic Stack
 |  |
