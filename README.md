@@ -80,6 +80,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [0045-jump-game-ii](https://github.com/saadmdsabah/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/saadmdsabah/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/saadmdsabah/LeetCode/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/saadmdsabah/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/saadmdsabah/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saadmdsabah/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/saadmdsabah/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -161,6 +162,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/saadmdsabah/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/saadmdsabah/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [2035-count-sub-islands](https://github.com/saadmdsabah/LeetCode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/saadmdsabah/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -240,6 +242,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [0033-search-in-rotated-sorted-array](https://github.com/saadmdsabah/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saadmdsabah/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/saadmdsabah/LeetCode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/saadmdsabah/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saadmdsabah/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saadmdsabah/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/saadmdsabah/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
