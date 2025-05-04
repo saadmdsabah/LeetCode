@@ -4,10 +4,13 @@ class Solution {
         int result = 0;
 
         for(int i=0; i<dominoes.length; i++){
-            int x = Math.min(dominoes[i][0], dominoes[i][1]);
-            int y = Math.max(dominoes[i][1], dominoes[i][0]);
-            result += map[x][y];
-            map[x][y]++;
+            if(dominoes[i][0] < dominoes[i][1]){
+                result += map[dominoes[i][0]][dominoes[i][1]];
+                map[dominoes[i][0]][dominoes[i][1]]++;
+            }else{
+                result += map[dominoes[i][1]][dominoes[i][0]];
+                map[dominoes[i][1]][dominoes[i][0]]++;
+            }
         }
         return result;
     }
