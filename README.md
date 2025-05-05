@@ -80,6 +80,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [0045-jump-game-ii](https://github.com/saadmdsabah/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/saadmdsabah/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/saadmdsabah/LeetCode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/saadmdsabah/LeetCode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/saadmdsabah/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/saadmdsabah/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saadmdsabah/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
