@@ -15,24 +15,28 @@
  */
 class Solution {
 
-    public int height(TreeNode root, ArrayList<Integer> list){
+    public int height(TreeNode root){
         if(root == null){
             return 0;
         }
-        int left = height(root.left, list);
-        int right = height(root.right, list);
-        list.add(Math.abs(right - left));
+        int left = height(root.left);
+        int right = height(root.right);
+        root.val = Math.abs(right - left);
         return Math.max(left, right) + 1;
     }
 
-    public boolean isBalanced(TreeNode root) {
-        ArrayList<Integer> list = new ArrayList<>();
-        height(root, list);
-        for(int i : list){
-            if(i > 1){
-                return false;
-            }
+    public boolean dfs(TreeNode root){
+        if(root == null){
+            return true;
         }
-        return true;
+        if(root.val > 1){
+            return false;
+        }
+        return dfs(root.left) && dfs(root.right);
+    }
+
+    public boolean isBalanced(TreeNode root) {
+        height(root);
+        return dfs(root);
     }
 }
