@@ -21,22 +21,16 @@ class Solution {
         }
         int left = height(root.left);
         int right = height(root.right);
-        root.val = Math.abs(right - left);
+        if(left == -1 || right == -1){
+            return -1;
+        }
+        if(Math.abs(right - left) > 1){
+            return -1;
+        }
         return Math.max(left, right) + 1;
     }
 
-    public boolean dfs(TreeNode root){
-        if(root == null){
-            return true;
-        }
-        if(root.val > 1){
-            return false;
-        }
-        return dfs(root.left) && dfs(root.right);
-    }
-
     public boolean isBalanced(TreeNode root) {
-        height(root);
-        return dfs(root);
+        return height(root) != -1;
     }
 }
