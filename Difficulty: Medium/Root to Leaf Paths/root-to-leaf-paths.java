@@ -151,24 +151,27 @@ class Node
 
 class Solution {
     
-    public static void dfs(ArrayList<ArrayList<Integer>> result, Node root, ArrayList<Integer> curr){
-        if(root == null){
+    public static void dfs(ArrayList<ArrayList<Integer>> result, Node root, ArrayList<Integer> curr) {
+        if (root == null) {
             return;
         }
-        if(root.right == null && root.left == null){
-            result.add(new ArrayList<>(curr));
-            result.get(result.size() - 1).add(root.data);
-            return;
-        }
+        
         curr.add(root.data);
-        dfs(result, root.left, curr);
-        dfs(result, root.right, curr);
-        curr.remove(curr.size() - 1);
+        
+        if (root.left == null && root.right == null) {
+            result.add(new ArrayList<>(curr));
+        } else {
+            dfs(result, root.left, curr);
+            dfs(result, root.right, curr);
+        }
+        
+        curr.remove(curr.size() - 1); 
     }
-    
+
     public static ArrayList<ArrayList<Integer>> Paths(Node root) {
         ArrayList<ArrayList<Integer>> result = new ArrayList<>();
-        dfs(result, root, new ArrayList<Integer>());
+        dfs(result, root, new ArrayList<>());
         return result;
     }
+
 }
