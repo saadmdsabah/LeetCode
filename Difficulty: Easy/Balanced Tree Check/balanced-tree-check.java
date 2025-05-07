@@ -67,21 +67,6 @@ class GfG {
 
 // } Driver Code Ends
 
-
-
-/* A binary tree node class
-class Node
-{
-    int data;
-    Node left,right;
-
-    Node(int d)
-    {
-        data = d;
-        left = right = null;
-    }
-} */
-
 class Solution {
     
     public int height(Node root){
@@ -90,22 +75,16 @@ class Solution {
         }
         int left = height(root.left);
         int right = height(root.right);
-        root.data = Math.abs(right - left);
+        if(left == -1 || right == -1){
+            return -1;
+        }
+        if(Math.abs(right - left) > 1){
+            return -1;
+        }
         return Math.max(left, right) + 1;
-    }
-
-    public boolean dfs(Node root){
-        if(root == null){
-            return true;
-        }
-        if(root.data > 1){
-            return false;
-        }
-        return dfs(root.left) && dfs(root.right);
     }
     
     public boolean isBalanced(Node root) {
-        height(root);
-        return dfs(root);
+        return height(root) != -1;
     }
 }
