@@ -125,6 +125,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saadmdsabah/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/saadmdsabah/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/saadmdsabah/LeetCode/tree/master/2035-count-sub-islands) |
+| [2040-minimum-cost-to-reach-destination-in-time](https://github.com/saadmdsabah/LeetCode/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2048-build-array-from-permutation](https://github.com/saadmdsabah/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/saadmdsabah/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/saadmdsabah/LeetCode/tree/master/2155-find-missing-observations) |
@@ -170,6 +171,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [0967-minimum-falling-path-sum](https://github.com/saadmdsabah/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/saadmdsabah/LeetCode/tree/master/1013-fibonacci-number) |
 | [1121-partition-array-for-maximum-sum](https://github.com/saadmdsabah/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
+| [2040-minimum-cost-to-reach-destination-in-time](https://github.com/saadmdsabah/LeetCode/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2262-solving-questions-with-brainpower](https://github.com/saadmdsabah/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 ## Matrix
 |  |
@@ -321,6 +323,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/saadmdsabah/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [2040-minimum-cost-to-reach-destination-in-time](https://github.com/saadmdsabah/LeetCode/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/saadmdsabah/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Heap (Priority Queue)
 |  |
