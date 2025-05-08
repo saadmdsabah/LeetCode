@@ -21,13 +21,12 @@ class Solution {
         }
         Queue<TreeNode> q = new LinkedList<>();
         q.add(root);
-        int flag = 0;
+        boolean flag = true;
 
         while(!q.isEmpty()){
             int len = q.size();
-            int[] row = new int[len];
-            int i = flag == 0 ? 0 : len - 1;
-            while(i >= 0 && i < len){
+            LinkedList<Integer> link = new LinkedList<>();
+            for(int i=0; i<len; i++){
                 TreeNode curr = q.remove();
                 if(curr.left != null){
                     q.add(curr.left);
@@ -35,14 +34,11 @@ class Solution {
                 if(curr.right != null){
                     q.add(curr.right);
                 }
-                row[i] = curr.val;
-                i = i + (flag == 0 ? 1 : -1);
+                if(flag) link.addLast(curr.val);
+                else link.addFirst(curr.val);
             }
-            List<Integer> rowList = Arrays.stream(row)
-                              .boxed()
-                              .collect(Collectors.toList());
-            result.add(rowList);
-            flag = flag == 0 ? 1 : 0;
+            result.add(link);
+            flag = !flag;
         }
         return result;
     }
