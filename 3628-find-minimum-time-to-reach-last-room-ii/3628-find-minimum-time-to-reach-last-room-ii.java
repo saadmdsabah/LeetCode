@@ -36,21 +36,17 @@ class Solution {
             int currParity = currPair.parity;
             visited[x][y][currParity - 1] = true;
 
-            int newParity = currParity == 1 ? 2 : 1;
             for(int i=0; i<4; i++){
                 int newX = x + xVal[i];
                 int newY = y + yVal[i];
-                if(newX >= 0 && newX < moveTime.length && newY >= 0 && newY < moveTime[0].length){
-                    if(!visited[newX][newY][currParity - 1]){
-                        int newValue = moveTime[newX][newY] + currParity;
-                        if(moveTime[newX][newY] <= currValue){
-                            newValue = currValue + currParity;
-                        }
-                        if(newValue < values[newX][newY]){
-                            values[newX][newY] = newValue;
-                            pq.add(new Pair(newX, newY, newValue, newParity));
-                        }
-                    }
+                if(newX < 0 || newX >= moveTime.length || newY < 0 || newY >= moveTime[0].length || visited[newX][newY][currParity - 1]) continue;
+                int newValue = moveTime[newX][newY] + currParity;
+                if(moveTime[newX][newY] <= currValue){
+                    newValue = currValue + currParity;
+                }
+                if(newValue < values[newX][newY]){
+                    values[newX][newY] = newValue;
+                    pq.add(new Pair(newX, newY, newValue, currParity == 1 ? 2 : 1));
                 }
             }
         }
