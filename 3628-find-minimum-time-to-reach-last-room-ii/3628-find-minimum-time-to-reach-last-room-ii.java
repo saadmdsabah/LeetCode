@@ -16,18 +16,14 @@ class Solution {
     }
 
     public int minTimeToReach(int[][] moveTime) {
-        int[][][] values = new int[moveTime.length][moveTime[0].length][2];
-
+        int[][] values = new int[moveTime.length][moveTime[0].length];
         for(int i=0; i<values.length; i++){
-            for(int j=0; j<values[i].length; j++){
-                Arrays.fill(values[i][j], Integer.MAX_VALUE);
-            }
+            Arrays.fill(values[i], Integer.MAX_VALUE);
         }
 
         boolean[][][] visited = new boolean[moveTime.length][moveTime[0].length][2];
         PriorityQueue<Pair> pq = new PriorityQueue<>((a, b) -> a.value - b.value);
-        values[0][0][0] = 0;
-        values[0][0][1] = 0;
+        values[0][0] = 0;
         pq.add(new Pair(0, 0, 0, 1));
         int[] xVal = {-1, 1, 0, 0};
         int[] yVal = {0, 0, -1, 1};
@@ -50,14 +46,14 @@ class Solution {
                         if(moveTime[newX][newY] <= currValue){
                             newValue = currValue + currParity;
                         }
-                        if(newValue < values[newX][newY][currParity - 1]){
-                            values[newX][newY][currParity - 1] = newValue;
+                        if(newValue < values[newX][newY]){
+                            values[newX][newY] = newValue;
                             pq.add(new Pair(newX, newY, newValue, newParity));
                         }
                     }
                 }
             }
         }
-        return Math.min(values[values.length - 1][values[0].length - 1][0], values[values.length - 1][values[0].length - 1][1]);
+        return values[values.length-1][values[0].length - 1];
     }
 }
