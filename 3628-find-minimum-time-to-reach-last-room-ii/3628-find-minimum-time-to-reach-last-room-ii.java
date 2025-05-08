@@ -16,13 +16,15 @@ class Solution {
     }
 
     public int minTimeToReach(int[][] moveTime) {
-        int[][] values = new int[moveTime.length][moveTime[0].length];
-        for(int i=0; i<values.length; i++){
+        int n = moveTime.length;
+        int m = moveTime[0].length;
+        int[][] values = new int[n][m];
+        for(int i=0; i<n; i++){
             Arrays.fill(values[i], Integer.MAX_VALUE);
         }
 
-        boolean[][][] visited = new boolean[moveTime.length][moveTime[0].length][2];
-        PriorityQueue<Pair> pq = new PriorityQueue<>((a, b) -> a.value - b.value);
+        boolean[][] visited = new boolean[n][m];
+        PriorityQueue<Pair> pq = new PriorityQueue<>((a, b) -> Integer.compare(a.value, b.value));
         values[0][0] = 0;
         pq.add(new Pair(0, 0, 0, 1));
         int[] xVal = {-1, 1, 0, 0};
@@ -34,12 +36,12 @@ class Solution {
             int y = currPair.y;
             int currValue = currPair.value;
             int currParity = currPair.parity;
-            visited[x][y][currParity - 1] = true;
+            visited[x][y] = true;
 
             for(int i=0; i<4; i++){
                 int newX = x + xVal[i];
                 int newY = y + yVal[i];
-                if(newX < 0 || newX >= moveTime.length || newY < 0 || newY >= moveTime[0].length || visited[newX][newY][currParity - 1]) continue;
+                if(newX < 0 || newX >= n || newY < 0 || newY >= m || visited[newX][newY]) continue;
                 int newValue = moveTime[newX][newY] + currParity;
                 if(moveTime[newX][newY] <= currValue){
                     newValue = currValue + currParity;
@@ -50,6 +52,6 @@ class Solution {
                 }
             }
         }
-        return values[values.length-1][values[0].length - 1];
+        return values[n-1][m - 1];
     }
 }
