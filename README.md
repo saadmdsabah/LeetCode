@@ -80,6 +80,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saadmdsabah/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/saadmdsabah/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/saadmdsabah/LeetCode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/saadmdsabah/LeetCode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/saadmdsabah/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/saadmdsabah/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/saadmdsabah/LeetCode/tree/master/0057-insert-interval) |
@@ -472,6 +473,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/saadmdsabah/LeetCode/tree/master/0046-permutations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saadmdsabah/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Sliding Window
 |  |
