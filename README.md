@@ -36,6 +36,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [2998-count-symmetric-integers](https://github.com/saadmdsabah/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/saadmdsabah/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3568-find-the-key-of-the-numbers](https://github.com/saadmdsabah/LeetCode/tree/master/3568-find-the-key-of-the-numbers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/saadmdsabah/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## String
 |  |
 | ------- |
@@ -56,6 +57,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/saadmdsabah/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/saadmdsabah/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/saadmdsabah/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [3637-count-number-of-balanced-permutations](https://github.com/saadmdsabah/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Simulation
 |  |
 | ------- |
@@ -180,6 +182,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [1121-partition-array-for-maximum-sum](https://github.com/saadmdsabah/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/saadmdsabah/LeetCode/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2262-solving-questions-with-brainpower](https://github.com/saadmdsabah/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [3637-count-number-of-balanced-permutations](https://github.com/saadmdsabah/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Matrix
 |  |
 | ------- |
@@ -474,6 +477,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saadmdsabah/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3548-find-the-count-of-good-integers](https://github.com/saadmdsabah/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/saadmdsabah/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Backtracking
 |  |
 | ------- |
