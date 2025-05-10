@@ -237,6 +237,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/saadmdsabah/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/saadmdsabah/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/saadmdsabah/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/saadmdsabah/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/saadmdsabah/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/saadmdsabah/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/saadmdsabah/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -254,6 +255,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/saadmdsabah/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/saadmdsabah/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/saadmdsabah/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/saadmdsabah/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/saadmdsabah/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/saadmdsabah/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/saadmdsabah/LeetCode/tree/master/2035-count-sub-islands) |
@@ -273,6 +275,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [0654-maximum-binary-tree](https://github.com/saadmdsabah/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/saadmdsabah/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/saadmdsabah/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/saadmdsabah/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/saadmdsabah/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/saadmdsabah/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/saadmdsabah/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -285,6 +288,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [0104-maximum-depth-of-binary-tree](https://github.com/saadmdsabah/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/saadmdsabah/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/saadmdsabah/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/saadmdsabah/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/saadmdsabah/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/saadmdsabah/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/saadmdsabah/LeetCode/tree/master/2035-count-sub-islands) |
@@ -335,6 +339,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [0797-rabbits-in-forest](https://github.com/saadmdsabah/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0906-walking-robot-simulation](https://github.com/saadmdsabah/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/saadmdsabah/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/saadmdsabah/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/saadmdsabah/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/saadmdsabah/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/saadmdsabah/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -424,6 +429,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [0451-sort-characters-by-frequency](https://github.com/saadmdsabah/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/saadmdsabah/LeetCode/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/saadmdsabah/LeetCode/tree/master/0539-minimum-time-difference) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/saadmdsabah/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saadmdsabah/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/saadmdsabah/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/saadmdsabah/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
