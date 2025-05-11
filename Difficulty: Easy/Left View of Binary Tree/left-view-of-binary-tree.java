@@ -111,20 +111,20 @@ class GfG {
 
 class Solution {
     
-    public void leftSideView(Node root, int level, ArrayList<Integer> result){
+    public void dfs(Node root, ArrayList<Integer> list, int level){
         if(root == null){
             return;
         }
-        if(level == result.size()){
-            result.add(root.data);
+        if(list.size() == level){
+            list.add(root.data);
         }
-        leftSideView(root.left, level+1, result);
-        leftSideView(root.right, level+1, result);
+        dfs(root.left, list, level + 1);
+        dfs(root.right, list, level + 1);
     }
     
     ArrayList<Integer> leftView(Node root) {
-        ArrayList<Integer> result = new ArrayList<>();
-        leftSideView(root, 0, result);
-        return result;
+        ArrayList<Integer> list = new ArrayList<>();
+        dfs(root, list, 0);
+        return list;
     }
 }
