@@ -122,6 +122,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/saadmdsabah/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1121-partition-array-for-maximum-sum](https://github.com/saadmdsabah/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/saadmdsabah/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1293-three-consecutive-odds](https://github.com/saadmdsabah/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/saadmdsabah/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/saadmdsabah/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/saadmdsabah/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
