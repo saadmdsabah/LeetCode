@@ -31,7 +31,8 @@ class Solution {
 
         while(!q.isEmpty()){
             int range = q.size();
-            int first = q.peek().index;
+            int min = q.peek().index;
+            int first = -1;
             int last = -1;
 
             for(int i=0; i<range; i++){
@@ -39,8 +40,9 @@ class Solution {
                 TreeNode currNode = currPair.node;
                 int currIndex = currPair.index;
 
-                int newIndex = currIndex - first;
-                if(i == range - 1) last = currIndex;
+                int newIndex = currIndex - min;
+                if(i == 0) first = newIndex;
+                if(i == range - 1) last = newIndex;
                 if(currNode.left != null){
                     q.add(new Pair(currNode.left, 2*newIndex + 1));
                 }
