@@ -8,7 +8,6 @@ class Solution {
 
         for(int i=0; i<t; i++){
             int z = map[25];
-            map[25] = 0;
             for(int j=25; j>=1; j--){
                 map[j] = map[j-1];
             }
