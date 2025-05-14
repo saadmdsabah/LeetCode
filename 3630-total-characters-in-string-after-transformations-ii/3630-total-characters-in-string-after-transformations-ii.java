@@ -13,7 +13,7 @@ class Solution {
         long[][] mat = new long[SIZE][SIZE];
         for (int i = 0; i < SIZE; i++) {
             for (int j = i + 1; j <= i + nums.get(i); j++) {
-                mat[i][j % SIZE] = (mat[i][j % SIZE] + 1) % MOD;
+                mat[i][j % SIZE]++;
             }
         }
 
