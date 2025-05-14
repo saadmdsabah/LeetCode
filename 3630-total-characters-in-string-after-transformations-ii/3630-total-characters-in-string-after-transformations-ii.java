@@ -12,10 +12,8 @@ class Solution {
         // Step 2: Build transformation matrix
         long[][] mat = new long[SIZE][SIZE];
         for (int i = 0; i < SIZE; i++) {
-            int span = nums.get(i);
-            for (int j = 1; j <= span; j++) {
-                int to = (i + j) % SIZE;
-                mat[i][to] = (mat[i][to] + 1) % MOD;
+            for (int j = i + 1; j <= i + nums.get(i); j++) {
+                mat[i][j % SIZE] = (mat[i][j % SIZE] + 1) % MOD;
             }
         }
 
