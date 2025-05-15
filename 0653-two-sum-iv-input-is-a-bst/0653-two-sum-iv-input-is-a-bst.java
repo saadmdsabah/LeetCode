@@ -55,17 +55,17 @@ class Solution {
     }
 
     public boolean findTarget(TreeNode root, int k) {
-        if(root.left == null && root.right == null){
-            return false;
-        }
+        // if(root.left == null && root.right == null){
+        //     return false;
+        // }
         nextInitialize(root);
         beforeInitialize(root);
 
         TreeNode i = next();
         TreeNode j = before();
-        if(i.val + j.val == k){
-            return true;
-        }
+        // if(i.val + j.val == k){
+        //     return true;
+        // }
 
         while(!nextStack.isEmpty() && !beforeStack.isEmpty()){
             if(i == j){
