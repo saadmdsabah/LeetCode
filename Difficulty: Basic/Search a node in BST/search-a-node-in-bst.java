@@ -62,15 +62,15 @@ System.out.println("~");
 class BST {
     // Function to search a node in BST.
     boolean search(Node root, int x) {
-        if(root == null){
-            return false;
+        while(root != null){
+            if(root.data == x){
+                return true;
+            }else if(root.data > x){
+                root = root.left;
+            }else{
+                root = root.right;
+            }
         }
-        if(root.data == x){
-            return true;
-        }else if(root.data > x){
-            return search(root.left, x);
-        }else{
-            return search(root.right, x);
-        }
+        return false;
     }
 }
