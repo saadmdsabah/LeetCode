@@ -257,6 +257,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [0222-count-complete-tree-nodes](https://github.com/saadmdsabah/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saadmdsabah/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saadmdsabah/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/saadmdsabah/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/saadmdsabah/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/saadmdsabah/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/saadmdsabah/LeetCode/tree/master/0654-maximum-binary-tree) |
@@ -318,6 +319,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [0222-count-complete-tree-nodes](https://github.com/saadmdsabah/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saadmdsabah/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saadmdsabah/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/saadmdsabah/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/saadmdsabah/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/saadmdsabah/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/saadmdsabah/LeetCode/tree/master/0654-maximum-binary-tree) |
@@ -367,6 +369,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [0222-count-complete-tree-nodes](https://github.com/saadmdsabah/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saadmdsabah/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/saadmdsabah/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0450-delete-node-in-a-bst](https://github.com/saadmdsabah/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/saadmdsabah/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saadmdsabah/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0783-search-in-a-binary-search-tree](https://github.com/saadmdsabah/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
