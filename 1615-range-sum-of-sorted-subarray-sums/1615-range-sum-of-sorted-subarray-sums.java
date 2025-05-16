@@ -1,22 +1,35 @@
 class Solution {
+
+    class Pair{
+        int val;
+        int index;
+        public Pair(int v, int i){
+            this.val = v;
+            this.index = i;
+        }
+    }
+
     public int rangeSum(int[] nums, int n, int left, int right) {
-        ArrayList<Integer> list = new ArrayList<>();
+        int count = 1;
         int mod = (int) 1e9 + 7;
+        PriorityQueue<Pair> sum = new PriorityQueue<>((a,b)->a.val - b.val);
 
         for(int i=0; i<n; i++){
-            long sum = 0;
-            for(int j=i; j<n; j++){
-                sum = (sum + nums[j])%mod;
-                list.add((int) sum);
-            }
+            sum.add(new Pair(nums[i], i));
         }
-
-        Collections.sort(list);
 
         long result = 0;
-        for(int i=left-1; i<right; i++){
-            result = (result + list.get(i))%mod;
+        while(count <= right){
+            Pair currPair = sum.remove();
+            int currSum = currPair.val;
+            int index = currPair.index;
+
+            if(count >= left) result = (result + currSum)%mod;
+            if(index + 1 < n){
+                sum.add(new Pair(currSum + nums[index+1], index+1));
+            }
+            count++;
         }
-        return (int) result%mod;
+        return (int) result;
     }
 }
