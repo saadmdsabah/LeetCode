@@ -138,6 +138,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/saadmdsabah/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/saadmdsabah/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saadmdsabah/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/saadmdsabah/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/saadmdsabah/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/saadmdsabah/LeetCode/tree/master/1656-count-good-triplets) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/saadmdsabah/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -404,6 +405,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [0784-insert-into-a-binary-search-tree](https://github.com/saadmdsabah/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/saadmdsabah/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0907-koko-eating-bananas](https://github.com/saadmdsabah/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/saadmdsabah/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/saadmdsabah/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/saadmdsabah/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/saadmdsabah/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -487,6 +489,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [0560-subarray-sum-equals-k](https://github.com/saadmdsabah/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/saadmdsabah/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/saadmdsabah/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/saadmdsabah/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/saadmdsabah/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2249-count-the-hidden-sequences](https://github.com/saadmdsabah/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/saadmdsabah/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -540,6 +543,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [0539-minimum-time-difference](https://github.com/saadmdsabah/LeetCode/tree/master/0539-minimum-time-difference) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/saadmdsabah/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saadmdsabah/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/saadmdsabah/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2215-finding-3-digit-even-numbers](https://github.com/saadmdsabah/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2479-meeting-rooms-iii](https://github.com/saadmdsabah/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/saadmdsabah/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -579,6 +583,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [0556-next-greater-element-iii](https://github.com/saadmdsabah/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saadmdsabah/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0868-push-dominoes](https://github.com/saadmdsabah/LeetCode/tree/master/0868-push-dominoes) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/saadmdsabah/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/saadmdsabah/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Queue
 |  |
