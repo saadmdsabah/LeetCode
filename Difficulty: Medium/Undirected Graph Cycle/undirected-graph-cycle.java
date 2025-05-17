@@ -30,13 +30,18 @@ class GFG {
 
 class Solution {
     
-    class Pair{
-        int node;
-        int parent;
-        public Pair(int node, int parent){
-            this.node = node;
-            this.parent = parent;
+    public boolean dfs(boolean[] visited, int parent, ArrayList<ArrayList<Integer>> graph, int source){
+        visited[source] = true;
+        for(int i=0; i<graph.get(source).size(); i++){
+            int nextNode = graph.get(source).get(i);
+            if(visited[nextNode] && nextNode != parent){
+                return true;
+            }
+            if(!visited[nextNode]){
+                if(dfs(visited, source, graph, nextNode)) return true;
+            }
         }
+        return false;
     }
     
     public boolean isCycle(int V, int[][] edges) {
@@ -53,28 +58,12 @@ class Solution {
         
         boolean[] visited = new boolean[V];
         
-        for (int i = 0; i < V; i++) {
-            if(!visited[i]) {
-                Queue<Pair> q = new LinkedList<>();
-                visited[i] = true;
-                q.add(new Pair(i, -1));
         
-                while (!q.isEmpty()) {
-                    Pair currPair = q.remove();
-                    int currNode = currPair.node;
-                    int parent = currPair.parent;
-        
-                    for (int nextNode : graph.get(currNode)) {
-                        if (visited[nextNode] && nextNode != parent) return true;
-                        if (!visited[nextNode]) {
-                            visited[nextNode] = true;
-                            q.add(new Pair(nextNode, currNode));
-                        }
-                    }
-                }
+        for(int i=0; i<V; i++){
+            if(!visited[i]){
+                if(dfs(visited, -1, graph, i)) return true;
             }
         }
-
         
         return false;
     }
