@@ -132,6 +132,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [0906-walking-robot-simulation](https://github.com/saadmdsabah/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/saadmdsabah/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0967-minimum-falling-path-sum](https://github.com/saadmdsabah/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [1036-rotting-oranges](https://github.com/saadmdsabah/LeetCode/tree/master/1036-rotting-oranges) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/saadmdsabah/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1121-partition-array-for-maximum-sum](https://github.com/saadmdsabah/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/saadmdsabah/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -216,6 +217,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [0240-search-a-2d-matrix-ii](https://github.com/saadmdsabah/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/saadmdsabah/LeetCode/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/saadmdsabah/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [1036-rotting-oranges](https://github.com/saadmdsabah/LeetCode/tree/master/1036-rotting-oranges) |
 | [2035-count-sub-islands](https://github.com/saadmdsabah/LeetCode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/saadmdsabah/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/saadmdsabah/LeetCode/tree/master/2411-spiral-matrix-iv) |
@@ -383,6 +385,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/saadmdsabah/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/saadmdsabah/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/saadmdsabah/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1036-rotting-oranges](https://github.com/saadmdsabah/LeetCode/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/saadmdsabah/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/saadmdsabah/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/saadmdsabah/LeetCode/tree/master/2035-count-sub-islands) |
