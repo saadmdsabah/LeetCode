@@ -320,6 +320,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [0733-flood-fill](https://github.com/saadmdsabah/LeetCode/tree/master/0733-flood-fill) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/saadmdsabah/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/saadmdsabah/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0820-find-eventual-safe-states](https://github.com/saadmdsabah/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/saadmdsabah/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/saadmdsabah/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/saadmdsabah/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -385,6 +386,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [0662-maximum-width-of-binary-tree](https://github.com/saadmdsabah/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/saadmdsabah/LeetCode/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/saadmdsabah/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0820-find-eventual-safe-states](https://github.com/saadmdsabah/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/saadmdsabah/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/saadmdsabah/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/saadmdsabah/LeetCode/tree/master/1036-rotting-oranges) |
@@ -482,6 +484,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/saadmdsabah/LeetCode/tree/master/0547-number-of-provinces) |
+| [0820-find-eventual-safe-states](https://github.com/saadmdsabah/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1325-path-with-maximum-probability](https://github.com/saadmdsabah/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/saadmdsabah/LeetCode/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/saadmdsabah/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -662,4 +665,8 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/saadmdsabah/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/saadmdsabah/LeetCode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
