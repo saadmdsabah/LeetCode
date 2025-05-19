@@ -111,43 +111,46 @@ class Gfg {
     }
 }
 // } Driver Code Ends
+
 class Solution {
-    public ArrayList<Node> findPreSuc(Node root, int key) {
+    public ArrayList<Node> findPreSuc(Node root, int target) {
         ArrayList<Node> result = new ArrayList<>();
-        Node prev = null;
-        Node next = null;
+        Node p = null;
+        Node s = null;
         
         while(root != null){
             if(root.left == null){
-                if(root.data < key){
-                    prev = root;
-                }else if(root.data > key){
-                    next = root;
+                if(root.data < target){
+                    p = root;
+                }else if(root.data > target){
+                    s = root;
                     break;
                 }
                 root = root.right;
             }else{
-                Node newCurr = root.left;
-                while(newCurr.right != null && newCurr.right != root){
-                    newCurr = newCurr.right;
+                Node curr = root.left;
+                while(curr.right != null && curr.right != root){
+                    curr = curr.right;
                 }
-                if(newCurr.right == null){
-                    newCurr.right = root;
+                
+                if(curr.right == null){
+                    curr.right = root;
                     root = root.left;
                 }else{
-                    if(root.data < key){
-                        prev = root;
-                    }else if(root.data > key){
-                        next = root;
+                    if(root.data < target){
+                        p = root;
+                    }else if(root.data > target){
+                        s = root;
                         break;
                     }
-                    newCurr.right = null;
+                    curr.right = null;
                     root = root.right;
                 }
             }
         }
-        result.add(prev);
-        result.add(next);
+        result.add(p);
+        result.add(s);
+        
         return result;
     }
 }
