@@ -106,62 +106,74 @@ class GfG {
 
 // } Driver Code Ends
 
-
-// User function Template for Java
-
 class Solution {
+    
+    static class Pair{
+        Node node;
+        int t;
+        public Pair(Node node, int t){
+            this.node = node;
+            this.t = t;
+        }
+    }
+    
     public static int minTime(Node root, int target) {
-        HashMap<Node, Node> map = new HashMap<>(); // (node, node's parent)
-        map.put(root, null);
-        int max = 0;
-
-        Node targetNode = root;
+        HashMap<Node, Node> map = new HashMap<>();
+        
         Queue<Node> q = new LinkedList<>();
         q.add(root);
-
+        
+        Node source = null;
+        int max = 0;
         while(!q.isEmpty()){
-            int range = q.size();
-            for(int i=0; i<range; i++){
-                Node curr = q.remove();
-                if(curr.data == target){
-                    targetNode = curr;
-                }
-                max = Math.max(max, curr.data);
-                if(curr.left != null){
-                    q.add(curr.left);
-                    map.put(curr.left, curr);
-                }
-                if(curr.right != null){
-                    q.add(curr.right);
-                    map.put(curr.right, curr);
-                }
+            Node currNode = q.remove();
+            max = Math.max(max, currNode.data);
+            
+            if(currNode.data == target){
+                source = currNode;
+            }
+            if(currNode.left != null){
+                map.put(currNode.left, currNode);
+                q.add(currNode.left);
+            }
+            if(currNode.right != null){
+                map.put(currNode.right, currNode);
+                q.add(currNode.right);
             }
         }
-
+        
         boolean[] visited = new boolean[max + 1];
-        q.add(targetNode);
-        visited[targetNode.data] = true;
-
-        int count = 0;
-        while(!q.isEmpty()){
-            int size = q.size();
-            for(int j=0; j<size; j++){
-                Node curr = q.remove();
-                if(curr.left != null && !visited[curr.left.data]){
-                    q.add(curr.left);
-                    visited[curr.left.data] = true;
-                }
-                if(curr.right != null && !visited[curr.right.data]){
-                    q.add(curr.right);
-                    visited[curr.right.data] = true;
-                }
-                if(map.get(curr) != null && !visited[map.get(curr).data]){
-                    q.add(map.get(curr));
-                    visited[map.get(curr).data] = true;
-                }
+        
+        Queue<Pair> queue = new LinkedList<>();
+        queue.add(new Pair(source, 0));
+        visited[target] = true;
+        
+        int result = 0;
+        while(!queue.isEmpty()){
+            Pair currPair = queue.remove();
+            Node currNode = currPair.node;
+            int time = currPair.t;
+            result = Math.max(result, time);
+            
+            if(map.containsKey(currNode) && !visited[map.get(currNode).data]){
+                queue.add(new Pair(map.get(currNode), time + 1));
+                visited[map.get(currNode).data] = true;
             }
-            count++;
+            if(currNode.left != null && !visited[currNode.left.data]){
+                queue.add(new Pair(currNode.left, time + 1));
+                visited[currNode.left.data] = true;
+            }
+            if(currNode.right != null && !visited[currNode.right.data]){
+                queue.add(new Pair(currNode.right, time + 1));
+                visited[currNode.right.data] = true;
+            }
         }
-        return count - 1;
+        
+        return result;
+        
+        
+        
+        
+        
     }
 }
