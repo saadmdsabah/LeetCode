@@ -35,6 +35,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [2155-find-missing-observations](https://github.com/saadmdsabah/LeetCode/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/saadmdsabah/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/saadmdsabah/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3321-type-of-triangle](https://github.com/saadmdsabah/LeetCode/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/saadmdsabah/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3568-find-the-key-of-the-numbers](https://github.com/saadmdsabah/LeetCode/tree/master/3568-find-the-key-of-the-numbers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/saadmdsabah/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -172,6 +173,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/saadmdsabah/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/saadmdsabah/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/saadmdsabah/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3321-type-of-triangle](https://github.com/saadmdsabah/LeetCode/tree/master/3321-type-of-triangle) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/saadmdsabah/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/saadmdsabah/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/saadmdsabah/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -571,6 +573,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [2215-finding-3-digit-even-numbers](https://github.com/saadmdsabah/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2479-meeting-rooms-iii](https://github.com/saadmdsabah/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/saadmdsabah/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3321-type-of-triangle](https://github.com/saadmdsabah/LeetCode/tree/master/3321-type-of-triangle) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/saadmdsabah/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Greedy
 |  |
