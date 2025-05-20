@@ -12,11 +12,12 @@ class Solution {
             }
         }
 
-        for(int i=1; i<nums.length; i++){
-            prefix[i] = prefix[i] + prefix[i - 1];
+        for(int i=1; i<prefix.length; i++){
+            prefix[i] += prefix[i-1];
         }
-        for(int i=0; i<nums.length; i++){
-            nums[i] = prefix[i] + nums[i];
+
+        for(int i=0; i<prefix.length; i++){
+            nums[i] = nums[i] + prefix[i];
             if(nums[i] > 0){
                 return false;
             }
