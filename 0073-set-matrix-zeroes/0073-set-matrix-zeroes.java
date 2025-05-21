@@ -3,37 +3,32 @@ class Solution {
         int n = matrix.length;
         int m = matrix[0].length;
 
-        boolean firstRow = false;
-        boolean firstCol = false;
+        int[][] result = new int[n][m];
 
         for(int i=0; i<n; i++){
             for(int j=0; j<m; j++){
-                if(matrix[i][j] == 0){
-                    if(i == 0) firstRow = true;
-                    if(j == 0) firstCol = true;
-                    matrix[i][0] = 0;
-                    matrix[0][j] = 0;
+                boolean zeroPresent = false;
+                for(int k=0; k<m; k++){
+                    if(matrix[i][k] == 0){
+                        zeroPresent = true;
+                        break;
+                    }
                 }
-            } 
-        } 
-
-        for(int i=1; i<n; i++){
-            for(int j=1; j<m; j++){
-                if(matrix[i][0] == 0 || matrix[0][j] == 0){
-                    matrix[i][j] = 0;
+                if(!zeroPresent){
+                    for(int k=0; k<n; k++){
+                        if(matrix[k][j] == 0){
+                            zeroPresent = true;
+                            break;
+                        }
+                    }
                 }
+                if(zeroPresent) result[i][j] = 0;
+                else result[i][j] = matrix[i][j];
             }
         }
-
-        if(firstRow){
-            for(int j=0; j<m; j++){
-                matrix[0][j] = 0;
-            }
-        }
-
-        if(firstCol){
-            for(int i=0; i<n; i++){
-                matrix[i][0] = 0;
+        for(int i=0; i<n; i++) {
+            for(int j=0; j<m; j++) {
+                matrix[i][j] = result[i][j];
             }
         }
     }
