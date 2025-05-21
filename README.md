@@ -26,6 +26,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [0539-minimum-time-difference](https://github.com/saadmdsabah/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/saadmdsabah/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/saadmdsabah/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/saadmdsabah/LeetCode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0797-rabbits-in-forest](https://github.com/saadmdsabah/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/saadmdsabah/LeetCode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/saadmdsabah/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -429,6 +430,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/saadmdsabah/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saadmdsabah/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saadmdsabah/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/saadmdsabah/LeetCode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0783-search-in-a-binary-search-tree](https://github.com/saadmdsabah/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/saadmdsabah/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/saadmdsabah/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
