@@ -15,6 +15,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saadmdsabah/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/saadmdsabah/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/saadmdsabah/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/saadmdsabah/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Math
 |  |
 | ------- |
@@ -176,6 +177,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/saadmdsabah/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/saadmdsabah/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/saadmdsabah/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/saadmdsabah/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/saadmdsabah/LeetCode/tree/master/3321-type-of-triangle) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/saadmdsabah/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/saadmdsabah/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -215,6 +217,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [2262-solving-questions-with-brainpower](https://github.com/saadmdsabah/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/saadmdsabah/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/saadmdsabah/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/saadmdsabah/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/saadmdsabah/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/saadmdsabah/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/saadmdsabah/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
@@ -302,6 +305,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [2384-root-equals-sum-of-children](https://github.com/saadmdsabah/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/saadmdsabah/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/saadmdsabah/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/saadmdsabah/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -591,6 +595,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [2215-finding-3-digit-even-numbers](https://github.com/saadmdsabah/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2479-meeting-rooms-iii](https://github.com/saadmdsabah/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/saadmdsabah/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/saadmdsabah/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/saadmdsabah/LeetCode/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/saadmdsabah/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/saadmdsabah/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -609,6 +614,7 @@ Welcome to LeetCode Solutions! 🚀 Here you'll find a curated collection of my 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/saadmdsabah/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/saadmdsabah/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/saadmdsabah/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/saadmdsabah/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/saadmdsabah/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Trie
 |  |
