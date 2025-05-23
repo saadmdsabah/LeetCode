@@ -5,13 +5,12 @@ class Solution {
         Long[] newNums = new Long[nums.length]; 
         long sum = 0;
 
-        for (int i : nums) sum += i;
-
-        for (int i = 0; i < nums.length; i++) {
+        for (int i=0; i<nums.length; i++){
+            sum += nums[i];
             newNums[i] = (long)((nums[i] ^ k) - nums[i]);
         }
+        
         Arrays.sort(newNums, Collections.reverseOrder()); 
-
         for (int i = 0; i < nums.length - 1; i+=2) {
             long newProfit = newNums[i] + newNums[i + 1];
             if (newProfit > 0) {
