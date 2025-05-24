@@ -3,11 +3,15 @@ class Solution {
         List<Integer> result = new ArrayList<>();
 
         for(int i=0; i<words.length; i++){
-            for(int j=0; j<words[i].length(); j++){
-                if(words[i].charAt(j) == x){
+            int j = 0;
+            int k = words[i].length() - 1;
+
+            while(j <= k){
+                if(words[i].charAt(j) == x || words[i].charAt(k) == x){
                     result.add(i);
                     break;
                 }
+                j++;k--;
             }
         }
         return result;
